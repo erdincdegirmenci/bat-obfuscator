@@ -1,4 +1,4 @@
-# BAT Obfuscator
+# Batch File Obfuscator
 ![image](https://github.com/user-attachments/assets/7ffc9c39-bb77-43e4-ae12-e0c0d55a60ae)
 
 ## Description
