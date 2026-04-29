@@ -24,7 +24,7 @@ If you'd like to clone and run the project locally, follow these steps:
 - A web browser to access the site.
   
 ### Steps to Run Locally
- Open the `https://erdincdegirmenci.github.io/bat-obfuscator/` file in your web browser.
+ Open the https://erdincdegirmenci.github.io/bat-obfuscator/ file in your web browser.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
